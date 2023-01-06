@@ -19,7 +19,7 @@ I am currently pursuing the Ph.D degree in the Department of Electrical and Elec
 * Pursuing Ph.D. degree in Electrical Engineering, Hong Kong University, Hong Kong SAR, China, 2025 (expected)
 
 <b>Research Interests:</b>
+* Planning and scheduling considering EV wireless charging
 * Resilient planning and operation of power distribution networks
 * Planning and operation of coupled power system and transportation system
-* Application of convex optimization methods
 * High impedance faults detection in power distribution networks
