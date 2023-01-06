@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xin Cui"
+title                    : "Introduction"
 title_separator          : "-"
 name                     : &name "Xin Cui"
 description              : &description "Phd student"
