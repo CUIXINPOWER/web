@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "A short introduction"
+title: "Wenqian Yin"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Xin Cui received the B.Sc. degree in electrical engineering from Qinghai University, China, in 2016, and the M.Sc. degree in electrical engineering from Tsinghua University, China, in 2020. I am currently pursuing the Ph.D degree at Hong Kong University. My main research interests are planning and operation of coupled power system and transportation system, high impedance faults detection in power distribution networks.
+Hi, this is Xin Cui's personal homepage. 
+
+## A short introduction
+I am currently pursuing the Ph.D degree in the Department of Electrical and Electronic Engineering, The University of Hong Kong. My supervisor is [Dr. Yunhe Hou](https://www.eee.hku.hk/people/yhhou/). 
+
+<b>Education:</b>
+* B.Eng. in Electrical Engineering, Qinghai University, China, 2016
+* M.Eng. in Electrical Engineering, Tsinghua University, China, 2020
+* Ph.D. in Electrical Engineering, Hong Kong University, Hong Kong SAR, China, 2025(expected)
+
+<b>Research Interests:</b>
+* Resilient planning and operation of power distribution networks
+* Planning and operation of coupled power system and transportation system
+* Application of convex optimization methods
+* high impedance faults detection in power distribution networks
