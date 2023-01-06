@@ -16,7 +16,7 @@ I am currently pursuing the Ph.D degree in the Department of Electrical and Elec
 <b>Education:</b>
 * B.Eng. in Electrical Engineering, Qinghai University, China, 2016
 * M.Eng. in Electrical Engineering, Tsinghua University, China, 2020
-* Ph.D. in Electrical Engineering, Hong Kong University, Hong Kong SAR, China, 2025(expected)
+* Pursuing Ph.D. degree in Electrical Engineering, Hong Kong University, Hong Kong SAR, China, 2025 (expected)
 
 <b>Research Interests:</b>
 * Resilient planning and operation of power distribution networks
