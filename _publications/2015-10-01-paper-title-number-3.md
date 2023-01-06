@@ -1,5 +1,5 @@
 ---
-title: "Nonlinear Modeling Analysis and Arc High-Impedance Faults Detection in Active Distribution Networks With Neutral Grounding via Petersen Coil"
+title: "2022-01"
 collection: publications
 permalink: https://ieeexplore.ieee.org/abstract/document/9695992
 ---
