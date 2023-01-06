@@ -1,7 +1,2 @@
----
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-collection: portfolio
----
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+title: "2022"
+B. Wang and X. Cui, "Nonlinear Modeling Analysis and Arc High-Impedance Faults Detection in Active Distribution Networks With Neutral Grounding via Petersen Coil," in IEEE Transactions on Smart Grid, vol. 13, no. 3, pp. 1888-1898, May 2022, doi: 10.1109/TSG.2022.3147044.
