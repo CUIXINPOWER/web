@@ -12,5 +12,5 @@ redirect_from:
 Education
 ======
 * B.S., Qinghai University, 2016
-* M.S., Tsinghuab University, 2020
+* M.S., Tsinghua University, 2020
 * Ph.D, Hong Kong University, 2025 (expected)
