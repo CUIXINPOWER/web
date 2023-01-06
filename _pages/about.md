@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Wenqian Yin"
+title: "Xin Cui"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -22,4 +22,4 @@ I am currently pursuing the Ph.D degree in the Department of Electrical and Elec
 * Resilient planning and operation of power distribution networks
 * Planning and operation of coupled power system and transportation system
 * Application of convex optimization methods
-* high impedance faults detection in power distribution networks
+* High impedance faults detection in power distribution networks
